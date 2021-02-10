@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "iso-639-1": "^2.1.8"
+  },
+  "scripts": {
+    "build": "node index.js > README.md"
+  }
+}
