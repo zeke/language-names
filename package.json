@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "hubdown": "^2.6.0",
     "iso-639-1": "^2.1.8"
   },
   "scripts": {
