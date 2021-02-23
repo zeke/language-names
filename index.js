@@ -44,7 +44,7 @@ async function main () {
     <body>
       <h1>Language Names</h1>
   
-      <p>Have you ever wondered what the Spanish word for "Greek" is? Or maybe the Italian word for "Japanese"? If so, this page is for you.
+      <p>Have you ever wondered what the Spanish word for "Greek" is? Or maybe the Italian word for "Japanese"? The Finnish word for "Finnish"? If so, this page is for you.
       <br><br>
       Built using the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl">Intl API</a> that's built into Node.js versions 14+. Check out the source at <a href="https://github.com/zeke/language-names">github.com/zeke/language-names</a>.</p>
       <br>
