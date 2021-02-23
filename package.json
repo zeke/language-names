@@ -1,9 +1,11 @@
 {
-  "dependencies": {
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.5",
     "hubdown": "^2.6.0",
-    "iso-639-1": "^2.1.8"
+    "iso-639-1": "^2.1.8",
+    "lodash": "^4.17.21"
   },
   "scripts": {
-    "build": "node index.js > README.md"
+    "build": "node index.js > index.html"
   }
 }
